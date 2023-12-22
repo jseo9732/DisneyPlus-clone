@@ -44,7 +44,7 @@
 ## 사이트 주소 🔗
 
 - 디즈니 플러스 URL: https://www.disneyplus.com/ko-kr
-- 클론 코딩 프로젝트 URL: https://bucolic-cocada-f470a1.netlify.app/
+- 클론 코딩 프로젝트 URL: https://superlative-puppy-eed6a7.netlify.app
 
 ---
 
